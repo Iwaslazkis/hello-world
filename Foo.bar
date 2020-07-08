@@ -1,0 +1,5 @@
+I wonder if markdown will come up here
+
+# This should be header if it does
+
+Nope. Unless I set the extension to .md, it leaves it as plaintext.
